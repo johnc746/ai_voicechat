@@ -4,10 +4,6 @@
 
 Download the package from GitHub
 
-```shell
-git clone https://github.com/coderaidershaun/chatbot-conversation-jarvis.git chatbot
-```
-
 ## Setup backend
 
 Change directory into backend
